@@ -11,7 +11,11 @@ public class Main {
         x.cylinders="8";
         x.size="1234cc";
         x.weight="6453kg";
-        
+
+        color col=new color();
+        col.colorLights="True";
+        col.colorTire="false";
+        col.colorWindows="True";
 
     }
 }
